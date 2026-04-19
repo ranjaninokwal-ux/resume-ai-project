@@ -1,0 +1,7 @@
+gradio
+pandas
+scikit-learn
+PyPDF2
+matplotlib
+reportlab
+requests
