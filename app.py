@@ -1,4 +1,4 @@
-!pip install PyPDF2 pandas scikit-learn gradio matplotlib reportlab requests
+
 # ===== IMPORTS =====
 import PyPDF2, pandas as pd, gradio as gr, matplotlib.pyplot as plt, requests
 from sklearn.feature_extraction.text import TfidfVectorizer
